@@ -14,7 +14,16 @@ To write a Python program that filters out and returns all elements from a list 
 5. Print the final filtered list.
 
 ## 🧾 Program
-Add code here
+
+# Reg.No: 212222210020
+# Name: Prithisha S
+
+num = int(input("Enter a number: "))
+print("Binary Equivalent:", bin(num))
+
 ## Output
+Enter a number: 10
+Binary Equivalent: 0b1010
 
 ## Result
+The programs were implemented successfully and the outputs were verified.
