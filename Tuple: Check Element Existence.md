@@ -10,8 +10,24 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-Add code here
+
+# Reg.No: 212222210020
+# Name: Prithisha S
+
+
+t = tuple(map(int, input("Enter tuple elements: ").split()))
+x = int(input("Enter element to search: "))
+
+if x in t:
+    print("Element exists in the tuple")
+else:
+    print("Element does not exist in the tuple")
 
 ## Output
 
+Enter tuple elements: 1 2 3 4 5
+Enter element to search: 3
+Element exists in the tuple
+
 ## Result
+The programs were implemented successfully and the outputs were verified.
