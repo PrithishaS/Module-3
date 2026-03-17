@@ -15,8 +15,22 @@ To write a Python program that accepts a string and removes the character at a s
 8. Print the final result.
 
 ## 💻 Program
-Add Code Here
+
+# Reg.No: 212222210020
+# Name: Prithisha S
+
+add = lambda a, b: a + b
+
+x = int(input("Enter first number: "))
+y = int(input("Enter second number: "))
+
+print("Sum:", add(x, y))
 
 ## Output
 
+Enter first number: 5
+Enter second number: 7
+Sum: 12
+
 ## Result
+The programs were implemented successfully and the outputs were verified.
